@@ -3143,8 +3143,8 @@
   },
   {
     "id": 50,
-    "image_link": "https://api-ninjas.com/images/dogs/border: var (--button-border_collie.jpg",
-    "name": "border: var (--button-border Collie",
+    "image_link": "https://api-ninjas.com/images/dogs/border_collie.jpg",
+    "name": "Border Collie",
     "good_with_children": 3,
     "good_with_other_dogs": 3,
     "shedding": 3,
@@ -3160,8 +3160,8 @@
   },
   {
     "id": 51,
-    "image_link": "https://api-ninjas.com/images/dogs/border: var (--button-border_terrier.jpg",
-    "name": "border: var (--button-border Terrier",
+    "image_link": "https://api-ninjas.com/images/dogs/border_terrier.jpg",
+    "name": "Border Terrier",
     "good_with_children": 5,
     "good_with_other_dogs": 3,
     "shedding": 2,
